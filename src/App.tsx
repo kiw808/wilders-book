@@ -2,7 +2,6 @@ import React from "react";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import Navbar from "./components/Navbar";
 import Wilders from "./components/Wilders";
-import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
     return (
